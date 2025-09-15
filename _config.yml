@@ -1,0 +1,8 @@
+title: My portfolio
+name: Naomi Smuczer
+email: W0631259@myscc.ca
+
+collections:
+  design:
+    output: true
+    personallink: /:collection/:path/
